@@ -1,0 +1,18 @@
+body{
+	background-color: navajowhite;
+}
+h1{
+	color: darkslateblue;
+}
+h2{
+	color: mediumslateblue;
+}
+.big{
+	font-size: 77px;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: springgreen;
+}
